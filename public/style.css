@@ -3,7 +3,7 @@
 }
 body {
   margin: 0;
-  background: #edf2fb;
+  background: #707e88;
   color: #1b2940;
   font:
     16px/1.5 system-ui,
@@ -23,11 +23,11 @@ header {
   justify-content: space-between;
   align-items: start;
   gap: 14px;
-  border-bottom: 1px solid #e1e8f3;
+  border-bottom: 1px solid #000000;
 }
 h1 {
   margin: 0;
-  color: #184a98;
+  color: #000000;
 }
 p {
   margin: 6px 0 16px;
@@ -92,7 +92,7 @@ input {
 button {
   padding: 12px 20px;
   color: white;
-  background: #255cc4;
+  background: #000000;
   border: 0;
   border-radius: 9px;
   cursor: pointer;
@@ -104,7 +104,7 @@ button:disabled {
 }
 #aviso {
   min-height: 25px;
-  color: #8b3e27;
+  color: #ff0000;
 }
 footer {
   font-size: 12px;
